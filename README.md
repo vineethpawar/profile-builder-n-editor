@@ -19,6 +19,7 @@ Stay updated with the latest progress and timeline of Profile Builder developmen
 
 - **Finalized Design**: 1:40 AM (February 8, 2024)
 - **Figured out the gist of Lexical to Start With**: 3:05 AM (February 8, 2024)
+- **Completed the Dynamic sized stcky sidebar and Page layout**: 6:15 AM (February 8, 2024)
 
 ## References 🔗
 
