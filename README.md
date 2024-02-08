@@ -13,7 +13,7 @@ Profile Builder is a versatile text editor-based profile builder designed to str
 - **Dark Theme (YTD)**: Choose between light and dark themes for a comfortable editing experience, with a focus on reducing eye strain during extended use.
 - **GitHub API Integration**: Fetch essential details for sections such as personal information, projects, and socials directly from GitHub APIs, simplifying the process of updating your profile.
 
-## Brain Logs 🧠
+## Progress Logs 🕒
 
 Stay updated with the latest progress and timeline of Profile Builder development through the brain logs:
 
