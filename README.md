@@ -10,7 +10,7 @@ Profile Builder is a versatile text editor-based profile builder designed to str
 - **Save Functionality**: Save your changes hassle-free with the save feature, ensuring that your profile is always up to date.
 - **Section-Based Editing**: Easily navigate and edit different sections of your profile, including personal information, projects, socials, and more.
 - **Integration with Lexical Framework**: Profile Builder leverages the power of [Lexical](https://lexical.dev/), an extensible text editor framework, to provide a robust editing experience.
-- **Dark Theme**: Choose between light and dark themes for a comfortable editing experience, with a focus on reducing eye strain during extended use.
+- **Dark Theme (YTD)**: Choose between light and dark themes for a comfortable editing experience, with a focus on reducing eye strain during extended use.
 - **GitHub API Integration**: Fetch essential details for sections such as personal information, projects, and socials directly from GitHub APIs, simplifying the process of updating your profile.
 
 ## Brain Logs 🧠
@@ -36,17 +36,20 @@ Stay updated with the latest progress and timeline of Profile Builder developmen
 To get started with Profile Builder, follow these steps:
 
 1. Clone the repository:
+
 ```sh
-  git clone https://github.com/your-username/profile-builder.git 
+  git clone https://github.com/your-username/profile-builder.git
 ```
 
 2. Install dependencies:
+
 ```sh
 cd profile-builder
 npm install
 ```
 
 3. Run the development server:
+
 ```sh
  npm run dev
 ```
